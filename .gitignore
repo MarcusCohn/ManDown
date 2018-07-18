@@ -75,3 +75,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/ManDown/Intermediate/CachedAssetRegistry.bin
+/ManDown/Saved/AutoScreenshot.png
+/ManDown/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+/ManDown/Saved/Logs/ManDown.log
