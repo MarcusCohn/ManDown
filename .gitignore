@@ -78,3 +78,5 @@ DerivedDataCache/*
 AutoScreenshot.png
 EditorPerProjectUserSettings.ini
 ManDown-backup-2018.07.16-16.34.36.log
+/ManDown/Intermediate/CachedAssetRegistry.bin
+*.log
